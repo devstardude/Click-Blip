@@ -1,0 +1,139 @@
+body {
+  text-align: center;
+  background-color: #000924;
+background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+
+}
+
+.title{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 5vh;
+  color: #c7b97c;
+  margin-top: 2rem;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+  margin:  4%;
+  color: #FEF2BF;
+}
+
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 20px;
+  display: inline-block;
+  height: 150px;
+  width: 150px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+.start{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 13px 26px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  font-family: Verdana, sans-serif;
+  font-weight: bolder;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.start1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #2e2e2e;
+}
+
+.start1:hover {
+  background-color: #2e2e2e;
+  color: white;
+}
+
+@media only screen and (max-device-width: 480px) {
+  /* styles for mobile browsers smaller than 480px; (iPhone) */
+
+  .btn {
+    margin: 45px;
+    display: inline-block;
+    height: 20rem;
+    width: 20rem;
+    border: 10px solid black;
+    border-radius: 20%;
+}
+  .row{
+    margin: 0%;
+    padding: 0%;
+  }
+
+  .container{
+    width: 100%;
+  }
+
+  
+
+  #level-title {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 5rem;
+    color: #FEF2BF;
+    margin-top: 5rem;
+}
+.start1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #2e2e2e;
+  font-size: 3rem;
+}
+.title{
+  font-size: 3rem;
+  margin-top: 3rem;
+  color: #c7b97c;
+}
+ }
+ 
+ 
+ 
+ @media only screen and (device-width: 768px) {
+  /* default iPad screens */
+  
+ }
