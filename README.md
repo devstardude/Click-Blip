@@ -3,7 +3,7 @@
   <img width="460" height="300" src="https://i.ibb.co/p4P5WVL/drum.png">
 </p>
 
-### Introduction 🙋‍♂️
+### Introduction 🌟
 ---
 How far can you get? <br/>
 Watch the colors light up while listening to the notes play. Try to repeat the sequence that gets longer with each round from Normal to Insane!
@@ -25,7 +25,7 @@ I made this app during my Initial days of learning Web development. <br/>
 This simple project helped me to apply my basic frontend knowledge into a working app.<br/>
 Also It helped me to overcome my second thoughts of getting into Web Development.
 
-### Technology Stack
+### Technology Stack ⚙️
 ---
 - Html 5
 - CSS 3
