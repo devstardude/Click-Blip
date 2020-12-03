@@ -1,4 +1,4 @@
-# Click Blip 🎮
+# Click-Blip 🎮
 <p align="center">
   <img width="460" height="300" src="https://i.ibb.co/p4P5WVL/drum.png">
 </p>
